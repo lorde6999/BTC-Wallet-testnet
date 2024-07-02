@@ -1,2 +1,2 @@
 # BTC-Wallet-testnet
-BTC Wallet testnet para estudo de blockchain.
+BTC Wallet testnet é um gerador de carteiras de Bitcoin escrito em javascript para estudo de blockchain.
